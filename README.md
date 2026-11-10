@@ -2,6 +2,12 @@
 
 v 2026-11-10-11-08-49
 
+[alt](vis-spectrum.png)
+
+[alt](vis-qtbar.png)
+
+
+
 Visualizers for mpv 
 
 - modified: qtbar without text in the middle
