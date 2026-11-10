@@ -2,9 +2,9 @@
 
 v 2026-11-10-11-08-49
 
-[alt](vis-spectrum.png)
+![spectrum](vis-spectrum.png)
 
-[alt](vis-qtbar.png)
+![qtbar(vis-qtbar.png)
 
 
 
