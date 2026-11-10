@@ -31,4 +31,4 @@ forked from https://github.com/mfcc64/mpv-scripts
 
 ## modifying visualizer.lua
 
-- you can modify spectrum values. lower quality if it spectrum takes too much cpu. (It uses a bit more cpu than qt vis)
+- you can modify spectrum values. lower quality if spectrum takes too much cpu, currently it is set to `low`. (It uses a bit more cpu than qt vis)
