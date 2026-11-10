@@ -4,7 +4,7 @@ v 2026-11-10-11-08-49
 
 ![spectrum](vis-spectrum.png)
 
-![qtbar(vis-qtbar.png)
+![qtbar](vis-qtbar.png)
 
 
 
