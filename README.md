@@ -1,4 +1,6 @@
-## MPV-Vis
+## MPV-vis
+
+v 2026-11-10-11-08-49
 
 Visualizers for mpv 
 
@@ -6,7 +8,7 @@ Visualizers for mpv
 - added: spectrum visualiser inspired by vlc spectrum. spectrum is default. to change default change `name` variable in `visualizer.lua`
 - add osd with vis name
 
-v 2026-11-10-14-17-53
+
 
 forked from https://github.com/mfcc64/mpv-scripts
 
