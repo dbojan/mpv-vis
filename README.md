@@ -17,11 +17,11 @@ forked from https://github.com/mfcc64/mpv-scripts
 - visualizer.lua - various audio visualization.
 - firequalizer.lua - linear phase 15-bands equalizer (this is not graphic, it is automatically used)
 
-## instalation:
+## installation:
 
 - in mpv folder, create folder `scripts`
 - copy lua files to `scripts` folder
-- You can alterantively copy lua files to `%appdata%/mpv/scripts`, or `.config/mpv/scripts`
+- You can alternatively copy lua files to `%appdata%/mpv/scripts`, or `.config/mpv/scripts`
 
 ## key bindings:
 
