@@ -1,5 +1,7 @@
 ## MPV-vis
 
+Visualizers for mpv, forked from https://github.com/mfcc64/mpv-scripts
+
 v 2026-11-10-11-08-49
 
 ![spectrum](vis-spectrum.png)
@@ -7,16 +9,9 @@ v 2026-11-10-11-08-49
 ![qtbar](vis-qtbar.png)
 
 
-
-Visualizers for mpv 
-
 - modified: qtbar without text in the middle
 - added: spectrum visualiser inspired by vlc spectrum. spectrum is default. to change default change `name` variable in `visualizer.lua`
 - add osd with vis name
-
-
-
-forked from https://github.com/mfcc64/mpv-scripts
 
 ## lua files:
 
