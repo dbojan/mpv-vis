@@ -11,7 +11,7 @@ v 2026-11-10-11-08-49
 
 - modified: qtbar, removed text in the middle
 - added: spectrum visualiser inspired by vlc spectrum. spectrum is default. to change default change `name` variable in `visualizer.lua`
-- added: osd with vis name
+- added: osd with vis name on change
 
 ## lua files:
 
