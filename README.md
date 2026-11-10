@@ -19,6 +19,7 @@ forked from https://github.com/mfcc64/mpv-scripts
 
 ## installation:
 
+- to download zip file, click on it on the top of the screen, then click on the arrow pointing down (on the right), to download zip file to pc
 - in mpv folder, create folder `scripts`
 - copy lua files to `scripts` folder
 - You can alternatively copy lua files to `%appdata%/mpv/scripts`, or `.config/mpv/scripts`
