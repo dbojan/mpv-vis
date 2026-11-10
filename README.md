@@ -9,7 +9,7 @@ v 2026-11-10-11-08-49
 ![qtbar](vis-qtbar.png)
 
 
-- modified: qtbar without text in the middle
+- modified: qtbar, removed text in the middle
 - added: spectrum visualiser inspired by vlc spectrum. spectrum is default. to change default change `name` variable in `visualizer.lua`
 - add osd with vis name
 
