@@ -23,12 +23,11 @@ forked from https://github.com/mfcc64/mpv-scripts
 - copy lua files to `scripts` folder
 - You can alterantively copy lua files to `%appdata%/mpv/scripts`, or `.config/mpv/scripts`
 
-### Key bindings
+## key bindings:
 
-use c key to flip through vis models
+- use c key to flip through vis models
+- use standard f key to go to fullscreen in mpv.
 
-use standard f key to go to fullscreen in mpv.
-
-### modify visualizer.lua
+## modifying visualizer.lua
 
 - you can modify spectrum values. lower quality if it spectrum takes too much cpu. (It takes a bit more than qt vis)
